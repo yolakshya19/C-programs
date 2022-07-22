@@ -5,5 +5,5 @@ void main()
     printf("Enter two elements a& b: ");
     scanf("%d%d",&a,&b);
 
-    printf("SUM = %d",a+b);
+    printf("SUM of a & b= %d",a+b);
 }
